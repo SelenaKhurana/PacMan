@@ -1,6 +1,7 @@
 # PacMan
 NAME: PacManAssignment
-DESCRIPTION: PacMan Coding Assignment from MITxPRO
+DESCRIPTION: PacMan Coding Assignment from MITxPRO. This exercises uses several different images of pacman and creates a phonenmenon of moving pacmen just by the click of a button.
+
 INSTALLATION:
 To install, download all files to the same directory folder, maintainging the existing folder structure.
 
